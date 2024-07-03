@@ -1,0 +1,30 @@
+header{
+    height: 900;
+    background-image:url(https://html5book.ru/wp-content/uploads/2016/09/background75.jpg);
+    background-size:cover}
+
+    h1{
+    color: rgb(0, 0, 0);
+   text-align: center;
+font-size: xx-large;
+padding-top: 80px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+}
+
+h2{
+    text-align: center;
+padding: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{padding-left: 60px;
+font-size: x-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-right: 60px;
+}
+
+p2{font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left: 60px;
+padding-right: 60px;}
+
